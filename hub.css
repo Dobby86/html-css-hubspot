@@ -11,10 +11,10 @@
     clear: both;
 }
 #caos {
-    margin-top: 5px;
+    margin-top:30px;
 }
 hr {
-    margin-top: 20px;
+    margin-top: 45px;
 }
 #engli {
     margin-top: 15px;
@@ -43,17 +43,27 @@ hr {
     color:white;
     border-style:white;
 }
+
+#navbar-top {
+    position: fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+}
+
 .contenuto1 {
     height: 100px;
     width: 50%;
     float: left;
-    background-color: white;
+    background-color: #F5F8FA;
+
 }
 .contenuto2 {
     height: 100px;
     width: 50%;
     float: left;
-    background-color: white;
+    background-color:#F5F8FA;
+
 }
 
 .contenuto3 {
@@ -61,6 +71,7 @@ hr {
     width: 50%;
     float: left;
     background-color:white;
+    position:
 }
 .contenuto4 {
     height: 100px;
@@ -71,7 +82,7 @@ hr {
 #logo {
     margin-left: 40%;
     margin-bottom: 50%;
-    height: 40%;
+    height: 40px;
 }
 ul {
     font-size: 17px;
