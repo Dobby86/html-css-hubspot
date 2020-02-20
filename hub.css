@@ -110,8 +110,7 @@ ul li a {
   <!------ prima  sezione------------ ---------------------------------------->
 
 .fotogrande {
-    background-position: right;
-    position: relative;
+    /* position: relative; */
 }
 #fotog {
     height:694px;
@@ -151,18 +150,35 @@ p {
     font-size: 15px;
 }
 
-
-
-
-
-
-
-
-
 <!-- seconda  sezione------------ ---------------------------------------->
-
-
-
+.secondasezione  {
+    /* position: relative; */
+    /* height: 5000px; */
+    /* background-color: red; */
+    /* width: 100%; */
+}
+#rubi {
+    height: 220px;
+    margin-left: 850px;
+    margin-top: 80px;
+}
+#frase2 {
+    font-size: 50px;
+    text-align:center;
+    margin-top: 350px;
+    margin-left: 650px;
+    color: #33475b;
+    position: absolute;
+}
+#full {
+    margin-top: 420px;
+    margin-bottom: 100px;
+    margin-left: 475px;
+    position: absolute;
+    font-size: 25px;
+    text-align: left;
+    color: #33475b;
+}
 
 
 
@@ -260,3 +276,9 @@ p {
 
 
 <!-- ----------------------foooter---------- --------------------------------->
+footer {
+    height:500px;
+    background-color: red;
+    width: 100%;
+    margin-top: 2000px;
+}
