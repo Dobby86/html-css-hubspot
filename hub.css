@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 /*  <!---------- parte navigazione  ------------------------------------------>*/
-
+body {
+    height: 3500px;
+    background-color: lightblue;
+}
 .clearfix::after {
     content: "";
     display: table;
@@ -163,43 +166,46 @@ p {
     margin-top: 80px;
 }
 #frase2 {
-    font-size: 50px;
+    font-size: 35px;
     text-align:center;
     margin-top: 350px;
-    margin-left: 650px;
+    margin-left: 700px;
     color: #33475b;
     position: absolute;
 }
 #full {
     margin-top: 420px;
     margin-bottom: 100px;
-    margin-left: 475px;
+    margin-left: 600px;
     position: absolute;
-    font-size: 25px;
-    text-align: left;
+    font-size: 20px;
+    text-align: center;
     color: #33475b;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--------- terza  sezione------------ ---------------------------------------->
+.terzasezione {
+    height: 500px;
+    background-color: red;
+    width: 100%;
+}
+.libri {
+    height: 200px;
+    margin-top:200px;
+    margin-left: 350px;
+}
 
-
-
-
+#free3 {
+    border-radius: 8px;
+    color:white;
+    background-color: #FF7A59;
+    padding: 20px 50px;
+    color:white;
+    border-style:white;
+    position: absolute;
+    margin-top:440px;
+    margin-left: -250px;
+}
 
 
 
@@ -271,14 +277,22 @@ p {
 
 
 
+main {
+    
+    height:500px;
+    background-color: brown;
+    width: 100%;
+    margin-top: 80%;
 
+}
 
 
 
 <!-- ----------------------foooter---------- --------------------------------->
-footer {
+.footer {
     height:500px;
-    background-color: red;
+    background-color: brown;
     width: 100%;
-    margin-top: 2000px;
+    margin-top: 80%;
+
 }
