@@ -31,14 +31,14 @@ hr {
     color:white;
     background-color: white;
     padding: 8px 25px;
-    color:orange;
+    color:#FF7A59;
     border-style:#FF7A59;
     margin-left: -70px;
 }
 #free {
     border-radius: 8px;
     color:white;
-    background-color: orange;
+    background-color: #FF7A59;
     padding: 8px 25px;
     color:white;
     border-style:white;
@@ -71,13 +71,12 @@ hr {
     width: 50%;
     float: left;
     background-color:white;
-    position:
 }
 .contenuto4 {
     height: 100px;
     width: 50%;
     float: left;
-    background-color: white;
+    background-color:white;
 }
 #logo {
     margin-left: 40%;
@@ -108,8 +107,49 @@ ul li a {
     text-align: left;
 }
 
+  <!------ prima  sezione------------ ---------------------------------------->
 
+.fotogrande {
+    background-position: right;
+    position: relative;
+}
+#fotog {
+    height:694px;
+    width: 100%;
+}
+#frase1 {
+    position: absolute;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 380px;
+    color: #33475b;
+}
 
+p {
+    position: absolute;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 195px;
+    margin-left: 380px;
+    color: #33475b;
+}
+#free2 {
+    border-radius: 8px;
+    color:white;
+    background-color: #FF7A59;
+    padding: 20px 50px;
+    color:white;
+    border-style:white;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 375px;
+}
+#get {
+    margin-top: 420px;
+    margin-left: 375px;
+    font-size: 15px;
+}
 
 
 
@@ -117,9 +157,9 @@ ul li a {
 
 
 
-  /*<!------ prima  sezione------------ ---------------------------------------->
 
 
+<!-- seconda  sezione------------ ---------------------------------------->
 
 
 
@@ -134,12 +174,12 @@ ul li a {
 
 
 
-/*<!-- seconda  sezione------------ ---------------------------------------->
 
 
 
 
 
+<!--------- terza  sezione------------ ---------------------------------------->
 
 
 
@@ -154,11 +194,11 @@ ul li a {
 
 
 
-/*<!--------- terza  sezione------------ ---------------------------------------->
 
 
 
 
+<!------- quarta  sezione------------ ---------------------------------------->
 
 
 
@@ -173,13 +213,13 @@ ul li a {
 
 
 
-/*<!------- quarta  sezione------------ ---------------------------------------->
 
 
 
 
 
 
+<!-------- quinta  sezione------------ ---------------------------------------->
 
 
 
@@ -194,7 +234,6 @@ ul li a {
 
 
 
-/*<!-------- quinta  sezione------------ ---------------------------------------->
 
 
 
@@ -203,6 +242,7 @@ ul li a {
 
 
 
+<!-- -----------sesta  sezione------------ ------------------------------------->
 
 
 
@@ -217,21 +257,6 @@ ul li a {
 
 
 
-/*<!-- -----------sesta  sezione------------ ------------------------------------->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*<!-- ----------------------foooter---------- --------------------------------->
+<!-- ----------------------foooter---------- --------------------------------->
