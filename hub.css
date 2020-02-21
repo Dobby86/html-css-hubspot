@@ -192,24 +192,23 @@ p {
 
 }
 #lista {
-    font-size: 17px;
-    /* margin: 0; */
-    padding: 0;
-    list-style: none;
-    margin-bottom: 150px;
+    display: inline-block;
+    color:#33475b;
+    font-weight: bold;
+    line-height: 10px;
+    text-decoration: none;
+    height: 40px;
+    text-align: center;
+    margin-left: -28px;
+    margin-bottom:  -20px;
+}
+#comp {
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
 }
 
-#lista #comp {
-    color:#33475b;
-    display: inline-block;
-    font-weight: bold;
-    line-height: 20px;
-    text-decoration: none;
-    width: 20px;
-    height: 30px;
-    text-align: center;
-    margin-left: 350px;
-}
 #picc {
     position: absolute;
     font-size: 17px;
@@ -258,6 +257,7 @@ p {
     /* height: 1500px;
     background-color: lightblue; */ */
     width: 100%;
+    margin-bottom: 100px;
 }
 
 
@@ -412,24 +412,29 @@ p {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-------- quinta  sezione------------ ---------------------------------------->
-
-
+/* ------------------------ */
+.quintasezione {
+    height: 800px;
+    background-color: #00B9A8;
+    width: 100%;
+}
+#frase13 {
+    color:white;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 0px;
+    padding-top: 100px;
+}
+#frase14 {
+        margin-top: 90px;
+        margin-bottom: 100px;
+        margin-left: 500px;
+        position: absolute;
+        font-size: 20px;
+        text-align: center;
+        color: white;
+}
 
 
 
