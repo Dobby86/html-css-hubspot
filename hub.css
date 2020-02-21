@@ -417,7 +417,12 @@ p {
     height: 800px;
     background-color: #00B9A8;
     width: 100%;
+    padding: 150px;
 }
+.penultima {
+    margin-bottom: 300px;
+}
+
 #frase13 {
     color:white;
     font-size: 35px;
@@ -427,15 +432,152 @@ p {
     padding-top: 100px;
 }
 #frase14 {
-        margin-top: 90px;
-        margin-bottom: 100px;
-        margin-left: 500px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-left: 330px;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+
+}
+.tabe1 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+
+}
+.tabe2 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+    border-left: white solid 2px;
+    border-right: white solid 2px;
+}
+
+.tabe3 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+    border-right: white solid 2px;
+}
+
+.tabe4 {
+    height: 300px;
+    background-color:#00B9A8;
+    width: 25%;
+    float: left;
+}
+
+.tabe5 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+    border-top: white solid 2px;
+}
+
+.tabe6 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+    border-right: white solid 2px;
+    border-top: white solid 2px;
+    border-left: white solid 2px;
+}
+
+.tabe7 {
+    height: 300px;
+    background-color:#00B9A8;
+    width: 25%;
+    float: left;
+    border-right: white solid 2px;
+    border-top: white solid 2px;
+}
+
+.tabe8 {
+    height: 300px;
+    background-color: #00B9A8;
+    width: 25%;
+    float: left;
+    border-top: white solid 2px;
+}
+
+#simboli {
+   height: 50px;
+   margin-top: 90px;
+   margin-left: 150px;
+}
+#frase15 {
+        margin-top: 10px;
+        /* margin-bottom: 200px; */
+        margin-left: 100px;
         position: absolute;
         font-size: 20px;
         text-align: center;
         color: white;
 }
+span {
+    color: white;
+    font-size:50px;
+    margin-left: 145px;
+}
 
+#simboli1 {
+   height: 50px;
+   margin-top: 90px;
+   margin-left: 180px;
+}
+#simboli2 {
+   height: 50px;
+   margin-top: 90px;
+   margin-left: 120px;
+}
+#simboli3 {
+   height: 50px;
+   margin-top: 90px;
+   margin-left: 120px;
+}
+/* # {
+    height: 150px;
+    margin-top: 90px;
+    margin-left: 480px;
+}
+# {
+    height: 150px;
+    margin-top:30px;
+    margin-left: -50px;
+}
+# {
+   height: 150px;
+   margin-top:30px;
+   margin-left: 190px;
+}
+# {
+    height: 150px;
+    margin-top:30px;
+    margin-left: 480px;
+}
+# {
+    height: 150px;
+    margin-top:30px;
+    margin-left: -50px;
+}
+# {
+   height: 150px;
+   margin-top:30px;
+   margin-left: 190px;
+}
+# {
+    height: 150px;
+    margin-top:30px;
+    margin-left: 480px;
+}
+ */
 
 
 
