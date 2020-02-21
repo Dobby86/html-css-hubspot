@@ -193,34 +193,28 @@ p {
 }
 #lista {
     font-size: 17px;
-    margin: 0;
+    /* margin: 0; */
     padding: 0;
     list-style: none;
+    margin-bottom: 150px;
 }
-#lista #comp {
-    display: inline-block;
-    width: 20px;
-    height: 30px;
-    margin: 2px;
 
-}
 #lista #comp {
     color:#33475b;
     display: inline-block;
     font-weight: bold;
-    line-height: 30px;
+    line-height: 20px;
     text-decoration: none;
     width: 20px;
     height: 30px;
     text-align: center;
-    margin-left: 150px;
-
+    margin-left: 350px;
 }
 #picc {
     position: absolute;
     font-size: 17px;
     text-align: left;
-    margin-top: -75px;
+    margin-top: -195px;
     margin-left: 700px;
     color: #33475b;
 }
@@ -228,7 +222,7 @@ p {
     position: absolute;
     font-size: 25px;
     text-align: left;
-    margin-top: -110px;
+    margin-top: -240px;
     margin-left: 700px;
     color: #33475b;
 }
@@ -236,17 +230,10 @@ p {
     position: absolute;
     font-size: 17px;
     text-align: left;
-    margin-top: -25px;
+    margin-top: -135px;
     margin-left: 700px;
     color: #33475b;
 }
-
-.libri {
-    height: 200px;
-    margin-top:200px;
-    margin-left: 350px;
-}
-
 #free3 {
     border-radius: 8px;
     color:white;
@@ -254,37 +241,77 @@ p {
     padding: 20px 50px;
     color:white;
     border-style:white;
-    position: absolute;
+    /* position: absolute; */
     margin-top:440px;
     margin-left: -250px;
+    margin-bottom: 50px;
+}
+.libri {
+    height: 200px;
+    margin-top:150px;
+    margin-left: 350px;
+    margin-bottom: 90px;
 }
 
+/* ----------------- quarta se--------------------- */
+.quartasezione {
+    /* height: 500px;
+    background-color: lightblue; */
+    width: 100%;
+}
+
+
 #borsa {
-   height: 200px;
+   height: 250px;
    margin-top:200px;
    margin-left: 350px;
 }
-
-
-
-
-
-
- /* -------------------------------------- */
-
-
-
-
-
-
-
-.quartasezione {
+#marketing {
+    height: 200px;
+    margin-top:200px;
+    margin-left: -650px;
+}
+#cuffie {
+    height: 200px;
+    margin-top:200px;
+    margin-left: 50px;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.colonna1 {
     height: 500px;
+    width: 33%;
+    float: left;
+    background-color: red;
+    margin-left: 0.2%;
+}
+.colonna2 {
+    height: 500px;
+    width:33%;
+    float: left;
     background-color: black;
+    margin-left: 0.2%;
+}
+
+.colonna3 {
+    height: 500px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+    margin-left: 0.2%;
 }
 
 
 
+
+
+
+
+
+.
 
 
 
