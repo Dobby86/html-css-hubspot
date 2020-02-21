@@ -4,10 +4,8 @@
     box-sizing: border-box;
 }
 /*  <!---------- parte navigazione  ------------------------------------------>*/
-body {
-    height: 3500px;
-    background-color: lightblue;
-}
+
+
 .clearfix::after {
     content: "";
     display: table;
@@ -47,11 +45,12 @@ hr {
     border-style:white;
 }
 
-#navbar-top {
+.scroll {
     position: fixed;
     top:0px;
     left:0px;
     width:100%;
+    z-index: 1;
 }
 
 .contenuto1 {
@@ -59,14 +58,12 @@ hr {
     width: 50%;
     float: left;
     background-color: #F5F8FA;
-
 }
 .contenuto2 {
     height: 100px;
     width: 50%;
     float: left;
     background-color:#F5F8FA;
-
 }
 
 .contenuto3 {
@@ -110,7 +107,8 @@ ul li a {
     text-align: left;
 }
 
-  <!------ prima  sezione------------ ---------------------------------------->
+   /* -------------------------------------- */
+
 
 .fotogrande {
     /* position: relative; */
@@ -120,11 +118,9 @@ ul li a {
     width: 100%;
 }
 #frase1 {
-    position: absolute;
     font-size: 50px;
-    text-align: left;
+    text-align:center;
     margin-top: 70px;
-    margin-left: 380px;
     color: #33475b;
 }
 
@@ -153,7 +149,7 @@ p {
     font-size: 15px;
 }
 
-<!-- seconda  sezione------------ ---------------------------------------->
+ /* -------------------------------------- */
 .secondasezione  {
     /* position: relative; */
     /* height: 5000px; */
@@ -168,13 +164,13 @@ p {
 #frase2 {
     font-size: 35px;
     text-align:center;
-    margin-top: 350px;
+    margin-top: 25px;
     margin-left: 700px;
     color: #33475b;
     position: absolute;
 }
 #full {
-    margin-top: 420px;
+    margin-top: 90px;
     margin-bottom: 100px;
     margin-left: 600px;
     position: absolute;
@@ -183,12 +179,63 @@ p {
     color: #33475b;
 }
 
-<!--------- terza  sezione------------ ---------------------------------------->
+ /* -------------------------------------- */
 .terzasezione {
-    height: 500px;
-    background-color: red;
+    margin-top: 1500px;
     width: 100%;
+    position: relative;
+
 }
+#lista {
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#lista #comp {
+    display: inline-block;
+    width: 20px;
+    height: 30px;
+    margin: 2px;
+
+}
+#lista #comp {
+    color:#33475b;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 30px;
+    text-decoration: none;
+    width: 20px;
+    height: 30px;
+    text-align: center;
+    margin-left: 150px;
+
+}
+#picc {
+    position: absolute;
+    font-size: 17px;
+    text-align: left;
+    margin-top: -75px;
+    margin-left: 700px;
+    color: #33475b;
+}
+#frase3{
+    position: absolute;
+    font-size: 25px;
+    text-align: left;
+    margin-top: -110px;
+    margin-left: 700px;
+    color: #33475b;
+}
+#picco {
+    position: absolute;
+    font-size: 17px;
+    text-align: left;
+    margin-top: -25px;
+    margin-left: 700px;
+    color: #33475b;
+}
+
 .libri {
     height: 200px;
     margin-top:200px;
@@ -207,6 +254,18 @@ p {
     margin-left: -250px;
 }
 
+#borsa {
+   height: 200px;
+   margin-top:200px;
+   margin-left: 350px;
+}
+
+
+
+
+
+
+ /* -------------------------------------- */
 
 
 
@@ -214,15 +273,10 @@ p {
 
 
 
-
-
-
-
-
-
-<!------- quarta  sezione------------ ---------------------------------------->
-
-
+.quartasezione {
+    height: 500px;
+    background-color: black;
+}
 
 
 
@@ -277,22 +331,6 @@ p {
 
 
 
-main {
-    
-    height:500px;
-    background-color: brown;
-    width: 100%;
-    margin-top: 80%;
-
-}
-
 
 
 <!-- ----------------------foooter---------- --------------------------------->
-.footer {
-    height:500px;
-    background-color: brown;
-    width: 100%;
-    margin-top: 80%;
-
-}
