@@ -71,12 +71,14 @@ hr {
     width: 50%;
     float: left;
     background-color:white;
+    margin-top: 100px;
 }
 .contenuto4 {
     height: 100px;
     width: 50%;
     float: left;
     background-color:white;
+    margin-top: 100px;
 }
 #logo {
     margin-left: 40%;
@@ -116,12 +118,15 @@ ul li a {
 #fotog {
     height:694px;
     width: 100%;
+    margin-top: -25px;
 }
 #frase1 {
     font-size: 50px;
     text-align:center;
-    margin-top: 70px;
+    margin-top: 20px;
     color: #33475b;
+    position: absolute;
+    margin-left: 385px;
 }
 
 p {
@@ -181,8 +186,8 @@ p {
 
  /* -------------------------------------- */
 .terzasezione {
-    margin-top: 1500px;
-    width: 100%;
+    /* margin-top: 1500px; */
+    /* width: 100%; */
     position: relative;
 
 }
