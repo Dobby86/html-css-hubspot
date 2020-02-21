@@ -255,8 +255,8 @@ p {
 
 /* ----------------- quarta se--------------------- */
 .quartasezione {
-    height: 1500px;
-    background-color: lightblue; */
+    /* height: 1500px;
+    background-color: lightblue; */ */
     width: 100%;
 }
 
@@ -264,7 +264,7 @@ p {
 #borsa {
    height: 150px;
    margin-top:30px;
-   margin-left: 210px;
+   margin-left: 190px;
 }
 #marketing {
     height: 150px;
@@ -343,14 +343,14 @@ p {
     font-size: 25px;
     text-align:left;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 230px;
 }
 #frase8 {
     color:#33475b;
     font-size: 17px;
     text-align:left;
     margin-top: 30px;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 #frase9{
     color:#33475b;
@@ -366,20 +366,50 @@ p {
     font-weight: bold;
     line-height: 40px;
     text-decoration: none;
-    height: 60px;
+    height: 10px;
     text-align: left;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 240px;
 }
 #off {
-    width: 200px;
+    width: 400px;
     margin: 0;
     padding: 0;
     font-size: 14px;
 }
 
-
-
+#frase10 {
+    color:#33475b;
+    font-size: 25px;
+    text-align:left;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+#frase11 {
+    color:#33475b;
+    font-size: 17px;
+    text-align:left;
+    margin-top: 30px;
+    margin-left: -80px;
+}
+#frase12 {
+    color:#33475b;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: -50px;
+}
+#on3 {
+    display: inline-block;
+    color:#33475b;
+    font-weight: bold;
+    line-height: 40px;
+    text-decoration: none;
+    height: 60px;
+    text-align: left;
+    margin-left: -80px;
+    margin-top: 240px;
+}
 
 
 
