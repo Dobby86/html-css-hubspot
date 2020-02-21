@@ -414,25 +414,25 @@ p {
 
 /* ------------------------ */
 .quintasezione {
-    height: 800px;
-    background-color: #00B9A8;
+    height: 950px;
+    background-color: rgb(0,169,184);
     width: 100%;
     padding: 150px;
 }
 .penultima {
-    margin-bottom: 300px;
+    margin-bottom:100px;
 }
 
 #frase13 {
     color:white;
     font-size: 35px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: -110px;
     margin-left: 0px;
     padding-top: 100px;
 }
 #frase14 {
-    margin-top: 90px;
+    margin-top: 10px;
     margin-bottom: 50px;
     margin-left: 330px;
     position: absolute;
@@ -443,14 +443,14 @@ p {
 }
 .tabe1 {
     height: 300px;
-    background-color: #00B9A8;
+    background-color:rgb(0,169,184);
     width: 25%;
     float: left;
 
 }
 .tabe2 {
     height: 300px;
-    background-color: #00B9A8;
+    background-color: rgb(0,169,184);
     width: 25%;
     float: left;
     border-left: white solid 2px;
@@ -459,7 +459,7 @@ p {
 
 .tabe3 {
     height: 300px;
-    background-color: #00B9A8;
+    background-color: rgb(0,169,184);
     width: 25%;
     float: left;
     border-right: white solid 2px;
@@ -467,14 +467,14 @@ p {
 
 .tabe4 {
     height: 300px;
-    background-color:#00B9A8;
+    background-color:rgb(0,169,184);
     width: 25%;
     float: left;
 }
 
 .tabe5 {
     height: 300px;
-    background-color: #00B9A8;
+    background-color: rgb(0,169,184);
     width: 25%;
     float: left;
     border-top: white solid 2px;
@@ -482,7 +482,7 @@ p {
 
 .tabe6 {
     height: 300px;
-    background-color: #00B9A8;
+    background-color: rgb(0,169,184);
     width: 25%;
     float: left;
     border-right: white solid 2px;
@@ -492,7 +492,7 @@ p {
 
 .tabe7 {
     height: 300px;
-    background-color:#00B9A8;
+    background-color:rgb(0,169,184);
     width: 25%;
     float: left;
     border-right: white solid 2px;
@@ -501,8 +501,7 @@ p {
 
 .tabe8 {
     height: 300px;
-    background-color: #00B9A8;
-    width: 25%;
+    background-color: rgb(0,169,184);
     float: left;
     border-top: white solid 2px;
 }
@@ -525,6 +524,11 @@ span {
     color: white;
     font-size:50px;
     margin-left: 145px;
+}
+#i6 {
+    color: white;
+    font-size:50px;
+    margin-left: 153px;
 }
 
 #simboli1 {
