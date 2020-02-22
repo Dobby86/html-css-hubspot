@@ -549,7 +549,7 @@ span {
 
 /* <!-- -----------sesta  sezi-------------------------> */
 .sestasezione {
-    height: 1000px;
+    height: 850px;
     background-color: white;
     width: 100%;
 }
@@ -574,7 +574,7 @@ span {
 .secondastriscia {
     width: 50%;
     height: 1000px;
-    background-color: pink;
+    background-color: white;
     float: right;
 }
 .marchi1 {
@@ -617,9 +617,8 @@ span {
     width: 80px;
     margin-top: 180px;
     text-align: left;
-
-
 }
+
 #dio2 {
     height: 15px;
     width: 80px;
@@ -627,54 +626,58 @@ span {
 }
 
 #picture1 {
-    width:150px;
+    width:180px;
     height: 250px;
-    background-size: 50px 50px;
     float: left;
     background-color: white;
 
 }
 #picture2 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color: white;
     float: left;
 }
 #picture3 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color: white;
     float: left;
 }
 #picture4 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color:white;
     float: left;
 }
 #picture11 {
-    width:150px;
+    width:180px;
     height: 250px;
     float: left;
     background-color: white;
 }
 #picture22 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color: white;
     float: left;
 }
 #picture33 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color: white;
     float: left;
 }
 #picture44 {
-    width:150px;
+    width:180px;
     height: 250px;
     background-color: white;
     float: left;
+}
+.donna {
+    margin-left: 100px;
+    height: 450px;
+    margin-top: -100px;
 }
 
 
