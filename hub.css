@@ -20,7 +20,7 @@ hr {
 #engli {
     margin-top: 15px;
     margin-left: 40%;
-    margin-bottom: -5px;
+    margin-bottom: -1px;
 }
 #lente {
     margin-left: 80px;
@@ -199,15 +199,17 @@ p {
     text-decoration: none;
     height: 40px;
     text-align: center;
-    margin-left: -28px;
+    margin-left: 10px;
     margin-bottom:  -20px;
 }
 .lista>li {
-    width: 200px;
-    margin: 0px;
+    margin: 5px;
     padding: 0px;
     font-size: 14px;
+    height: auto;
+    width: auto;
 }
+
 
 #picc {
     position: absolute;
@@ -557,6 +559,8 @@ span {
     height: 850px;
     background-color: white;
     width: 100%;
+    padding-left: 100px;
+    padding-right:100px;
 }
 
 #frase16{
@@ -689,7 +693,7 @@ span {
 footer {
     height: 850px;
     background-color: pink;
-    margin-top: 250px;
+    margin-top: 350px;
     width: 100%
 }
 .footgroup {
@@ -731,7 +735,6 @@ footer {
 }
 .onn>li {
     float:none;
-    column-gap: 2px;
     color:white;
     height: auto;
     width: auto;
