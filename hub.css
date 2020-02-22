@@ -414,10 +414,10 @@ p {
 
 /* ------------------------ */
 .quintasezione {
-    height: 950px;
+    height: 1050px;
     background-color: rgb(0,169,184);
     width: 100%;
-    padding: 150px;
+    padding: 250px;
 }
 .penultima {
     margin-bottom:100px;
@@ -434,7 +434,7 @@ p {
 #frase14 {
     margin-top: 10px;
     margin-bottom: 50px;
-    margin-left: 330px;
+    margin-left: 250px;
     position: absolute;
     font-size: 20px;
     text-align: center;
@@ -546,42 +546,61 @@ span {
    margin-top: 90px;
    margin-left: 120px;
 }
-/* # {
-    height: 150px;
-    margin-top: 90px;
-    margin-left: 480px;
+
+/* <!-- -----------sesta  sezi-------------------------> */
+.sestasezione {
+    height: 1050px;
+    background-color: orange;
+    width: 100%;
 }
-# {
-    height: 150px;
-    margin-top:30px;
-    margin-left: -50px;
+
+#frase16{
+    font-size: 20px;
+    text-align: left;
+    color: #33475b;
 }
-# {
-   height: 150px;
-   margin-top:30px;
-   margin-left: 190px;
+#frase17{
+    font-size: 50px;
+    text-align: left;
+    color: #33475b;
+    margin-top: 150px;
 }
-# {
-    height: 150px;
-    margin-top:30px;
-    margin-left: 480px;
+.primastriscia {
+    width: 50%;
+    height: 1050px;
+    background-color: white;
 }
-# {
-    height: 150px;
-    margin-top:30px;
-    margin-left: -50px;
+
+#frase18{
+    font-size: 35px;
+    text-align: left;
+    color: #33475b;
+    margin-top: 350px;
 }
-# {
-   height: 150px;
-   margin-top:30px;
-   margin-left: 190px;
+#frase19 {
+    font-size: 20px;
+    text-align: left;
+    color: #33475b;
+    margin-top: 450px;
 }
-# {
-    height: 150px;
-    margin-top:30px;
-    margin-left: 480px;
+
+#free4 {
+    border-radius: 4px;
+    color:white;
+    background-color: #FF7A59;
+    padding: 15px 25px;
+    color:white;
+    border-style:white;
+    margin-top: 550px;
+    margin-left: 375px;
 }
- */
+#frase20 {
+    color:#33475b;
+    font-size: 17px;
+    text-align:left;
+    margin-top: 30px;
+    margin-left: 375px;
+}
 
 
 
@@ -595,25 +614,4 @@ span {
 
 
 
-
-
-
-
-
-
-<!-- -----------sesta  sezione------------ ------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ----------------------foooter---------- --------------------------------->
+/* <!-- ----------------------foooter---------- ---------------------------------> */
