@@ -745,3 +745,27 @@ footer {
     width: auto;
     color:#cbd6e2;
 }
+#ultimotasto {
+    border-radius: 4px;
+    color:#33475b;
+    background-color: #cbd6e2;
+    padding: 15px 25px;
+    border-style:white;
+    margin-top: 20px;
+}
+
+/* .microlink {
+    display: inline-block;
+    list-style-type: none;
+    padding: 1px;
+}
+.microlink>li {
+    float:none;
+    color:white;
+    height: auto;
+    width: auto;
+}
+.microlink> li> a{
+    width: auto;
+    color:#cbd6e2;
+} */
