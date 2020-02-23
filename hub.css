@@ -793,7 +793,7 @@ footer {
 
 }
 .microlink > li {
-    margin-top: 50px;
+    margin-top: 90px;
     padding: 0px;
     font-size: 17px;
     height: auto;
@@ -802,7 +802,7 @@ footer {
 .lingue {
     margin-left: 420px;
     margin-right: 420px;
-    background-color: white;
+    background-color: #33475b;
     height:120px;
     margin-top: 300px;
 }
@@ -828,7 +828,7 @@ footer {
     margin: 0 0 0 5px;
     color:white;
 }
-.lang > a {
+.lang1 > a {
     color:#cbd6e2;
 }
 
@@ -852,7 +852,7 @@ footer {
 .spot2 {
     width: 50%;
     height: 150px;
-    background-color: white;
+    background-color: #33475b;
     float: left;
 }
 
@@ -865,7 +865,7 @@ footer {
     text-align:center;
     margin-left: 220px;
 }
-.lang2>  li {
+.lang2 >  li {
     display: inline;
     font-size: 17px;
     height: 120px;
