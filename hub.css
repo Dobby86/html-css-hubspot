@@ -213,7 +213,14 @@ p {
     /* margin-top: 1500px; */
     /* width: 100%; */
     position: relative;
-
+}
+.rettaoriz {
+    margin-left: 195px;
+    margin-top: -30px;
+    position: absolute;
+    height: 0.5px;
+    background-color: grey;
+    width: 515px;
 }
 .lista {
     display: inline-block;
